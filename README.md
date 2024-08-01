@@ -1,12 +1,23 @@
-# Template - Tutorial Portfólio 2023
+# 👨‍💻 Portfólio Pessoal
 
-![image](https://github.com/gbdev-labs/template-portfolio-tutorial-2023/assets/71772559/ade0ec7a-cb22-4c5c-a4fa-183ab380357e)
+Bem-vindo ao meu portfólio! Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos, experiências profissionais e fornecer uma maneira fácil de entrar em contato comigo. Abaixo, você encontrará uma descrição detalhada do que compõe este portfólio.
 
+## 🛠️ Tecnologias Utilizadas
 
-Este é um template básico que será usado na [série do YouTube](https://youtube.com/playlist?list=PLY_G6KZ7jlfU41bdaWpTsOnfCC7bmpJcL) para criar um Portfólio com as ferramentas mais recentes de desenvolvimento web. O template inclui o Next.js 13, Tailwind CSS, Hygraph CMS, TypeScript e Framer Motion, que são as tecnologias principais que serão usadas na série.
+- **Next.js 13**: Utilizado para construir uma aplicação web rápida e escalável.
+- **Tailwind CSS**: Utilizado para estilizar a aplicação de forma eficiente e responsiva.
+- **Hygraph CMS**: Utilizado para gerenciar o conteúdo do portfólio de forma dinâmica.
+- **TypeScript**: Utilizado para garantir a tipagem estática e a segurança do código.
+- **Framer Motion**: Utilizado para criar animações fluidas e interativas.
 
-O objetivo deste template é fornecer um ponto de partida para os espectadores que acompanham a série de tutoriais e desejam seguir juntamente com a construção do portfólio. Ele inclui a estrutura básica do projeto e os arquivos necessários para iniciar o desenvolvimento do portfólio.
+## 📫 Contato
 
-Ao usar este template, você poderá seguir os tutoriais da série passo a passo e criar um portfólio profissional e impressionante com as mais recentes tecnologias de desenvolvimento web.
+Se você quiser entrar em contato, há uma área dedicada para isso, onde você pode enviar uma mensagem diretamente pelo site ✉️
 
-[**Projeto final**](https://github.com/GBDev13/portfolio-tutorial-2023)
+## 📄 Download de Currículo
+
+Para conveniência, há também uma opção de download do meu currículo em formato PDF.
+
+Espero que você goste de explorar meu portfólio tanto quanto eu gostei de criá-lo. Se tiver qualquer dúvida ou quiser saber mais sobre meus trabalhos, não hesite em entrar em contato 🚀
+
+---

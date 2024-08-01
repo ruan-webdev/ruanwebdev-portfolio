@@ -35,7 +35,7 @@ export const HeroSection = () => {
           <p className="font-mono text-emerald-400">Olá, meu nome é</p>
           <h2 className="text-4xl font-medium mt-2">Ruan Campos</h2>
 
-          <p className="text-gray-400 my-6 text-sm sm:text-base">
+          <p className="text-gray-400 my-6 text-sm sm:text-base text-justify">
             Olá, meu nome é Ruan Campos e sou um desenvolvedor front-end
             apaixonado por tecnologia. Com mais de 2 anos de experiência. Meu
             objetivo é criar interfaces de usuário bonitas e funcionais, além de
@@ -69,7 +69,7 @@ export const HeroSection = () => {
         </div>
 
         <Image
-          src="/images/profile-dev-pic.png"
+          src="/images/alternative_dev_pic_2.png"
           alt="foto de perfil do Ruan Campos"
           width={420}
           height={404}
