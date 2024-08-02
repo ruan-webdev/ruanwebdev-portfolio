@@ -11,6 +11,10 @@ const NAV_ITEMS = [
     label: "Projetos",
     href: "/projects",
   },
+  {
+    label: "Download CV",
+    href: "/download-cv",
+  },
 ]
 
 export const Header = () => {

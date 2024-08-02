@@ -9,6 +9,8 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido com o objetivo de apr
 - **Hygraph CMS**: Utilizado para gerenciar o conteúdo do portfólio de forma dinâmica.
 - **TypeScript**: Utilizado para garantir a tipagem estática e a segurança do código.
 - **Framer Motion**: Utilizado para criar animações fluidas e interativas.
+- **React Hook Form**: Utilizado para facilitar o gerenciamento e a validação dos formulários, garantindo uma performance otimizada e uma experiência de usuário fluida.
+- **Zod**: Utilizado para validar e tipar os dados dos formulários, assegurando que os dados sejam corretos e seguros antes de serem processados.
 
 ## 📫 Contato
 
