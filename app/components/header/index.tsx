@@ -13,7 +13,7 @@ const NAV_ITEMS = [
   },
   {
     label: "Download CV",
-    href: "/download-cv",
+    href: "/Curriculum_Ruan_Dev_.pdf", // Caminho para o arquivo CV
   },
 ]
 

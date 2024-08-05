@@ -54,7 +54,7 @@ export const ContactForm = () => {
             {...register("message")}
           />
 
-          <Button className="w-max mx-auto mt-6 shadown-button">
+          <Button className="w-max mx-auto mt-6 shadow-button">
             Enviar mensagem <HiArrowNarrowRight size={18} />
           </Button>
         </form>
