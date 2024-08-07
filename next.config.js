@@ -4,7 +4,10 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['media.graphassets.com'],
+    domains: [
+      "media.graphassets.com",
+      "private-user-images.githubusercontent.com",
+    ],
   },
 }
 
