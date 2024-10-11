@@ -1,4 +1,4 @@
-# 👨‍💻 Portfólio Pessoal
+# 👨‍💻 Portfólio Pessoal * EM DESENVOLVIMENTO *
 
 Bem-vindo ao meu portfólio! Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos, experiências profissionais e fornecer uma maneira fácil de entrar em contato comigo. Abaixo, você encontrará uma descrição detalhada do que compõe este portfólio.
 
